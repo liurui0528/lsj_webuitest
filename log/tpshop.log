@@ -1,0 +1,23 @@
+2020-12-31 23:01:39,583 INFO [root] [base.py (__init__:15] - [base]: 正在获取初始化driver对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="6438786a0bfbfe842a04e2dab30dc2b9")>
+2020-12-31 23:01:39,588 INFO [root] [base.py (__init__:15] - [base]: 正在获取初始化driver对象:<selenium.webdriver.chrome.webdriver.WebDriver (session="6438786a0bfbfe842a04e2dab30dc2b9")>
+2020-12-31 23:01:39,588 INFO [root] [page_login.py (page_click_login_link:12] - [page_loging] 执行：('partial link text', '登录') 点击链接操作
+2020-12-31 23:01:39,588 INFO [root] [base.py (base_click:28] - [base]: 正在对:('partial link text', '登录') 元素实行点击事件
+2020-12-31 23:01:39,588 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('partial link text', '登录') 元素，默认定位超时时间为: 30
+2020-12-31 23:01:47,894 INFO [root] [page_login.py (page_login_success:71] - [page_loging] 正在执行登录操作, 用户名：17710714644 密码：123456, 验证码:8888
+2020-12-31 23:01:47,894 INFO [root] [page_login.py (page_input_username:17] - [page_loging] 对：('css selector', '#username') 元素 输入用户名：17710714644 操作
+2020-12-31 23:01:47,894 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('css selector', '#username') 元素，默认定位超时时间为: 30
+2020-12-31 23:01:47,904 INFO [root] [base.py (base_input:36] - [base]: 正在对:('css selector', '#username') 元素实行清空
+2020-12-31 23:01:47,952 INFO [root] [page_login.py (page_input_pwd:22] - [page_loging] 对：('css selector', '#password') 元素 输入密码：123456 操作
+2020-12-31 23:01:47,952 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('css selector', '#password') 元素，默认定位超时时间为: 30
+2020-12-31 23:01:47,962 INFO [root] [base.py (base_input:36] - [base]: 正在对:('css selector', '#password') 元素实行清空
+2020-12-31 23:01:48,019 INFO [root] [page_login.py (page_input_verify_code:27] - [page_loging] 对：('css selector', '#verify_code') 元素 输入验证码：8888 操作
+2020-12-31 23:01:48,019 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('css selector', '#verify_code') 元素，默认定位超时时间为: 30
+2020-12-31 23:01:48,029 INFO [root] [base.py (base_input:36] - [base]: 正在对:('css selector', '#verify_code') 元素实行清空
+2020-12-31 23:01:48,082 INFO [root] [base.py (base_click:28] - [base]: 正在对:('css selector', '.J-login-submit') 元素实行点击事件
+2020-12-31 23:01:48,083 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('css selector', '.J-login-submit') 元素，默认定位超时时间为: 30
+2020-12-31 23:01:48,121 INFO [root] [base.py (base_index:63] - [base]: 回到首页
+2020-12-31 23:01:58,853 INFO [root] [base.py (base_index:63] - [base]: 回到首页
+2020-12-31 23:02:01,378 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('css selector', '#q') 元素，默认定位超时时间为: 30
+2020-12-31 23:02:01,387 INFO [root] [base.py (base_input:36] - [base]: 正在对:('css selector', '#q') 元素实行清空
+2020-12-31 23:02:01,447 INFO [root] [base.py (base_click:28] - [base]: 正在对:('css selector', '.ecsc-search-button') 元素实行点击事件
+2020-12-31 23:02:01,447 INFO [root] [base.py (base_find:20] - [base]: 正在定位:('css selector', '.ecsc-search-button') 元素，默认定位超时时间为: 30
